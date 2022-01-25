@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General info
-The purpose of this project is to estimate the probability of winning the game Lights Out on a random graph for n vertices, where n ranges between 1 and 87. The project generates a random graph using the algorithm presented by J. Dixon and H. Wilf in the paper *The Random Selection of Unlabeled Graphs*. 
+The purpose of this project is to estimate the probability of winning the game Lights Out on a random graph for n vertices, where n ranges between 1 and 100. The project generates a random graph using the algorithm presented by J. Dixon and H. Wilf in the paper *The Random Selection of Unlabeled Graphs*. 
 	
 ## Technologies
 Project is created with the programming language Java.
